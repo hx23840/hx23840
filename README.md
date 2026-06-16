@@ -43,4 +43,3 @@ I'm a passionate developer working at the intersection of hardware and software,
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hx23840)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=hx23840)
