@@ -39,7 +39,3 @@ I'm a passionate developer working at the intersection of hardware and software,
 
 - I'm constantly exploring emerging technologies and finding creative ways to blend technical innovation with practical applications
 
-![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=hx23840)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hx23840)
-
