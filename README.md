@@ -30,11 +30,6 @@ I'm a passionate developer working at the intersection of hardware and software,
 - Building and maintaining open-source projects
 - Balancing technical excellence with user experience
 
-## 📫 How to reach me
-
-- Open an issue or submit a PR on GitHub
-- Visit my personal website: [shakecode](https://shakecode.com) for more contact options
-
 ## ⚡ Fun fact
 
 - I'm constantly exploring emerging technologies and finding creative ways to blend technical innovation with practical applications
